@@ -1,0 +1,8 @@
+#orangebold {
+    color:rgb(13, 13, 65); 
+    font-size: larger;
+}
+body {background-color:grey}
+html * { font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color:rgb(13, 13, 65);
+}
